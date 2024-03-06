@@ -17,6 +17,8 @@ Portfolio allocation is an essential aspect of financial management, aiming to m
 
 The code in this repository represents the implementation and analysis of the aforementioned DRL models in portfolio optimization. It includes data preprocessing, model setup, performance evaluation, and result visualization segments.
 
+The project is implemented in the Jupyter notebook. utils.py stores the DRL environments and the helper functions.
+
 ## Requirements
 
 To run the code in this repository, you may need to install third-party libraries such as:
